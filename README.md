@@ -1,2 +1,2 @@
 # porta-python
- portable python based on 64 bit embedded python 3.9
+ portable python based on 64 bit embeddable python 3.9
